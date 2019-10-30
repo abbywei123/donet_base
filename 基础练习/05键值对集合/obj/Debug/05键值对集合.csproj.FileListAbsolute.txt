@@ -1,0 +1,6 @@
+C:\file\donet_base\基础练习\05键值对集合\bin\Debug\05键值对集合.exe.config
+C:\file\donet_base\基础练习\05键值对集合\bin\Debug\05键值对集合.exe
+C:\file\donet_base\基础练习\05键值对集合\bin\Debug\05键值对集合.pdb
+C:\file\donet_base\基础练习\05键值对集合\obj\Debug\05键值对集合.csprojAssemblyReference.cache
+C:\file\donet_base\基础练习\05键值对集合\obj\Debug\05键值对集合.exe
+C:\file\donet_base\基础练习\05键值对集合\obj\Debug\05键值对集合.pdb
