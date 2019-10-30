@@ -5,3 +5,9 @@ C:\Users\j\source\repos\基础练习\基础练习\obj\Debug\基础练习.csprojA
 C:\Users\j\source\repos\基础练习\基础练习\obj\Debug\基础练习.csproj.CoreCompileInputs.cache
 C:\Users\j\source\repos\基础练习\基础练习\obj\Debug\基础练习.exe
 C:\Users\j\source\repos\基础练习\基础练习\obj\Debug\基础练习.pdb
+C:\file\donet_base\基础练习\基础练习\bin\Debug\基础练习.exe.config
+C:\file\donet_base\基础练习\基础练习\bin\Debug\基础练习.exe
+C:\file\donet_base\基础练习\基础练习\bin\Debug\基础练习.pdb
+C:\file\donet_base\基础练习\基础练习\obj\Debug\基础练习.csprojAssemblyReference.cache
+C:\file\donet_base\基础练习\基础练习\obj\Debug\基础练习.exe
+C:\file\donet_base\基础练习\基础练习\obj\Debug\基础练习.pdb

@@ -5,3 +5,9 @@ C:\Users\j\source\repos\基础练习\访问修饰符\obj\Debug\03访问修饰符
 C:\Users\j\source\repos\基础练习\访问修饰符\obj\Debug\03访问修饰符.csproj.CoreCompileInputs.cache
 C:\Users\j\source\repos\基础练习\访问修饰符\obj\Debug\访问修饰符.exe
 C:\Users\j\source\repos\基础练习\访问修饰符\obj\Debug\访问修饰符.pdb
+C:\file\donet_base\基础练习\访问修饰符\bin\Debug\访问修饰符.exe.config
+C:\file\donet_base\基础练习\访问修饰符\bin\Debug\访问修饰符.exe
+C:\file\donet_base\基础练习\访问修饰符\bin\Debug\访问修饰符.pdb
+C:\file\donet_base\基础练习\访问修饰符\obj\Debug\03访问修饰符.csprojAssemblyReference.cache
+C:\file\donet_base\基础练习\访问修饰符\obj\Debug\访问修饰符.exe
+C:\file\donet_base\基础练习\访问修饰符\obj\Debug\访问修饰符.pdb
