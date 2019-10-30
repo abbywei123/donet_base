@@ -8,3 +8,13 @@ C:\Users\j\source\repos\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.A
 C:\Users\j\source\repos\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.AssemblyInfo.cs
 C:\Users\j\source\repos\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.dll
 C:\Users\j\source\repos\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.pdb
+C:\file\donet_base\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.deps.json
+C:\file\donet_base\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.runtimeconfig.json
+C:\file\donet_base\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.runtimeconfig.dev.json
+C:\file\donet_base\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.dll
+C:\file\donet_base\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.pdb
+C:\file\donet_base\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.csprojAssemblyReference.cache
+C:\file\donet_base\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.AssemblyInfoInputs.cache
+C:\file\donet_base\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.AssemblyInfo.cs
+C:\file\donet_base\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.dll
+C:\file\donet_base\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.pdb
