@@ -63,7 +63,32 @@ namespace a.b.f
         {
             Console.WriteLine("这里是{0}的show3_3", typeof(ReflectionTest));
         }
-        #endregion
-
+        #endregion    
     }
+
+    #region 含泛型方法的类
+    /// <summary>
+    /// 泛型方法
+    /// </summary>
+    //public class GenericMethod
+    //{
+    //    public void Show<T, W, X>(T t, W w, X x)
+    //    {
+    //        Console.WriteLine("t.type={0},w.type={1},x.type={2}", t.GetType().Name, w.GetType().Name, x.GetType().Name);
+    //    }
+    //}
+    #endregion
+
+    #region 泛型类 泛型方法
+    public class GenericDouble<T>
+    {
+        public void Show<W, X>(T t, W w, X x)
+        {
+            Console.WriteLine("t.type={0},w.type={1},x.type={2}", t.GetType().Name, w.GetType().Name, x.GetType().Name);
+        }
+    }
+
+    #endregion
 }
+
+

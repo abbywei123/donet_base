@@ -5,3 +5,9 @@ C:\Users\j\source\repos\基础练习\a.b.f\obj\Debug\a.b.f.csprojAssemblyReferen
 C:\Users\j\source\repos\基础练习\a.b.f\obj\Debug\a.b.f.csproj.CoreCompileInputs.cache
 C:\Users\j\source\repos\基础练习\a.b.f\obj\Debug\a.b.f.exe
 C:\Users\j\source\repos\基础练习\a.b.f\obj\Debug\a.b.f.pdb
+C:\file\donet_base\基础练习\a.b.f\bin\Debug\a.b.f.exe.config
+C:\file\donet_base\基础练习\a.b.f\bin\Debug\a.b.f.exe
+C:\file\donet_base\基础练习\a.b.f\bin\Debug\a.b.f.pdb
+C:\file\donet_base\基础练习\a.b.f\obj\Debug\a.b.f.exe
+C:\file\donet_base\基础练习\a.b.f\obj\Debug\a.b.f.pdb
+C:\file\donet_base\基础练习\a.b.f\obj\Debug\a.b.f.csprojAssemblyReference.cache
