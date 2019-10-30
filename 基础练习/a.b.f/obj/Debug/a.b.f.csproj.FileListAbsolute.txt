@@ -1,0 +1,7 @@
+C:\Users\j\source\repos\基础练习\a.b.f\bin\Debug\a.b.f.exe.config
+C:\Users\j\source\repos\基础练习\a.b.f\bin\Debug\a.b.f.exe
+C:\Users\j\source\repos\基础练习\a.b.f\bin\Debug\a.b.f.pdb
+C:\Users\j\source\repos\基础练习\a.b.f\obj\Debug\a.b.f.csprojAssemblyReference.cache
+C:\Users\j\source\repos\基础练习\a.b.f\obj\Debug\a.b.f.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\基础练习\a.b.f\obj\Debug\a.b.f.exe
+C:\Users\j\source\repos\基础练习\a.b.f\obj\Debug\a.b.f.pdb

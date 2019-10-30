@@ -1,0 +1,7 @@
+C:\Users\j\source\repos\基础练习\02里氏转换\bin\Debug\02里氏转换.exe.config
+C:\Users\j\source\repos\基础练习\02里氏转换\bin\Debug\02里氏转换.exe
+C:\Users\j\source\repos\基础练习\02里氏转换\bin\Debug\02里氏转换.pdb
+C:\Users\j\source\repos\基础练习\02里氏转换\obj\Debug\02里氏转换.csprojAssemblyReference.cache
+C:\Users\j\source\repos\基础练习\02里氏转换\obj\Debug\02里氏转换.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\基础练习\02里氏转换\obj\Debug\02里氏转换.exe
+C:\Users\j\source\repos\基础练习\02里氏转换\obj\Debug\02里氏转换.pdb

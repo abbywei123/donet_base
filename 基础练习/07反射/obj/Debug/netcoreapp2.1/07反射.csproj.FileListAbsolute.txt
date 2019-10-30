@@ -1,0 +1,14 @@
+C:\Users\j\source\repos\基础练习\07反射\bin\Debug\netcoreapp2.1\07反射.deps.json
+C:\Users\j\source\repos\基础练习\07反射\bin\Debug\netcoreapp2.1\07反射.runtimeconfig.json
+C:\Users\j\source\repos\基础练习\07反射\bin\Debug\netcoreapp2.1\07反射.runtimeconfig.dev.json
+C:\Users\j\source\repos\基础练习\07反射\bin\Debug\netcoreapp2.1\07反射.dll
+C:\Users\j\source\repos\基础练习\07反射\bin\Debug\netcoreapp2.1\07反射.pdb
+C:\Users\j\source\repos\基础练习\07反射\obj\Debug\netcoreapp2.1\07反射.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\基础练习\07反射\obj\Debug\netcoreapp2.1\07反射.AssemblyInfoInputs.cache
+C:\Users\j\source\repos\基础练习\07反射\obj\Debug\netcoreapp2.1\07反射.AssemblyInfo.cs
+C:\Users\j\source\repos\基础练习\07反射\obj\Debug\netcoreapp2.1\07反射.dll
+C:\Users\j\source\repos\基础练习\07反射\obj\Debug\netcoreapp2.1\07反射.pdb
+C:\Users\j\source\repos\基础练习\07反射\bin\Debug\netcoreapp2.1\a.b.c.dll
+C:\Users\j\source\repos\基础练习\07反射\bin\Debug\netcoreapp2.1\a.b.c.pdb
+C:\Users\j\source\repos\基础练习\07反射\obj\Debug\netcoreapp2.1\07反射.csprojAssemblyReference.cache
+C:\Users\j\source\repos\基础练习\07反射\obj\Debug\netcoreapp2.1\07反射.csproj.CopyComplete

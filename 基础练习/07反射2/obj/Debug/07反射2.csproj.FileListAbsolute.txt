@@ -1,0 +1,11 @@
+C:\Users\j\source\repos\基础练习\07反射2\bin\Debug\07反射2.exe.config
+C:\Users\j\source\repos\基础练习\07反射2\bin\Debug\07反射2.exe
+C:\Users\j\source\repos\基础练习\07反射2\bin\Debug\07反射2.pdb
+C:\Users\j\source\repos\基础练习\07反射2\bin\Debug\a.b.f.exe
+C:\Users\j\source\repos\基础练习\07反射2\bin\Debug\a.b.f.pdb
+C:\Users\j\source\repos\基础练习\07反射2\bin\Debug\a.b.f.exe.config
+C:\Users\j\source\repos\基础练习\07反射2\obj\Debug\07反射2.csprojAssemblyReference.cache
+C:\Users\j\source\repos\基础练习\07反射2\obj\Debug\07反射2.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\基础练习\07反射2\obj\Debug\07反射2.csproj.CopyComplete
+C:\Users\j\source\repos\基础练习\07反射2\obj\Debug\07反射2.exe
+C:\Users\j\source\repos\基础练习\07反射2\obj\Debug\07反射2.pdb

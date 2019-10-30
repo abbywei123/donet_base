@@ -1,0 +1,10 @@
+C:\Users\j\source\repos\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.deps.json
+C:\Users\j\source\repos\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.runtimeconfig.json
+C:\Users\j\source\repos\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.runtimeconfig.dev.json
+C:\Users\j\source\repos\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.dll
+C:\Users\j\source\repos\基础练习\06泛型\bin\Debug\netcoreapp2.1\06泛型.pdb
+C:\Users\j\source\repos\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.AssemblyInfoInputs.cache
+C:\Users\j\source\repos\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.AssemblyInfo.cs
+C:\Users\j\source\repos\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.dll
+C:\Users\j\source\repos\基础练习\06泛型\obj\Debug\netcoreapp2.1\06泛型.pdb

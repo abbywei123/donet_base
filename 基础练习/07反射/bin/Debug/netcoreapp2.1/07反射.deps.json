@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "07反射/1.0.0": {
+        "dependencies": {
+          "a.b.c": "1.0.0"
+        },
+        "runtime": {
+          "07反射.dll": {}
+        }
+      },
+      "a.b.c/1.0.0": {
+        "runtime": {
+          "a.b.c.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07反射/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "a.b.c/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

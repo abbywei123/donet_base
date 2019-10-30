@@ -1,0 +1,7 @@
+C:\Users\j\source\repos\基础练习\05键值对集合\bin\Release\05键值对集合.exe.config
+C:\Users\j\source\repos\基础练习\05键值对集合\bin\Release\05键值对集合.exe
+C:\Users\j\source\repos\基础练习\05键值对集合\bin\Release\05键值对集合.pdb
+C:\Users\j\source\repos\基础练习\05键值对集合\obj\Release\05键值对集合.csprojAssemblyReference.cache
+C:\Users\j\source\repos\基础练习\05键值对集合\obj\Release\05键值对集合.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\基础练习\05键值对集合\obj\Release\05键值对集合.exe
+C:\Users\j\source\repos\基础练习\05键值对集合\obj\Release\05键值对集合.pdb
