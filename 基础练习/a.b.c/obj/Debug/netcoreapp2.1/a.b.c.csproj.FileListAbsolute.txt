@@ -1,8 +1,0 @@
-C:\Users\j\source\repos\基础练习\a.b.c\bin\Debug\netcoreapp2.1\a.b.c.deps.json
-C:\Users\j\source\repos\基础练习\a.b.c\bin\Debug\netcoreapp2.1\a.b.c.dll
-C:\Users\j\source\repos\基础练习\a.b.c\bin\Debug\netcoreapp2.1\a.b.c.pdb
-C:\Users\j\source\repos\基础练习\a.b.c\obj\Debug\netcoreapp2.1\a.b.c.csproj.CoreCompileInputs.cache
-C:\Users\j\source\repos\基础练习\a.b.c\obj\Debug\netcoreapp2.1\a.b.c.AssemblyInfoInputs.cache
-C:\Users\j\source\repos\基础练习\a.b.c\obj\Debug\netcoreapp2.1\a.b.c.AssemblyInfo.cs
-C:\Users\j\source\repos\基础练习\a.b.c\obj\Debug\netcoreapp2.1\a.b.c.dll
-C:\Users\j\source\repos\基础练习\a.b.c\obj\Debug\netcoreapp2.1\a.b.c.pdb
