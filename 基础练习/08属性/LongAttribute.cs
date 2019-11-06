@@ -7,7 +7,14 @@ using System.Threading.Tasks;
 
 namespace _08属性
 {
-    public class LongAttribute:Attribute
+
+
+    public abstract class AbstractValidateAttribute : Attribute
+    {
+        public abstract bool Validate(object value);
+    }
+
+    public class LongAttribute: AbstractValidateAttribute
     {
         private long _Min = 0;
         private long _Max = 0;
@@ -19,7 +26,7 @@ namespace _08属性
             this._Min = min;
         }
 
-        public bool Validate(object value)
+        public override bool Validate(object value)
         {
             if(value!=null&&!string.IsNullOrWhiteSpace(value.ToString()))
             {
@@ -38,7 +45,8 @@ namespace _08属性
     }
 
 
-    public class LengAttribute : Attribute
+
+public class LengAttribute : AbstractValidateAttribute
     {
         private int _Min = 0;
         private int _Max = 0;
@@ -50,7 +58,7 @@ namespace _08属性
             this._Min = min;
         }
 
-        public bool Validate(object value)
+        public override bool Validate(object value)
         {
             if (value != null && !string.IsNullOrWhiteSpace(value.ToString()))
             {
@@ -73,30 +81,34 @@ namespace _08属性
         public static bool Validate(this object oObject)
         {
             Type type = oObject.GetType();
-            foreach(var prop in type.GetProperties())
+            foreach (var prop in type.GetProperties())
             {
-                if (prop.IsDefined(typeof(LongAttribute), true))
+                if (prop.IsDefined(typeof(AbstractValidateAttribute), true))
                 {
-                    LongAttribute attribute=(LongAttribute)prop.GetCustomAttribute(typeof(LongAttribute), true);
-                    if (!attribute.Validate(prop.GetValue(oObject)))
-                    {
-                        return false;
-                    }
-                 
-                }
+                    object[] attributeArray = prop.GetCustomAttributes(typeof(AbstractValidateAttribute), true);
 
-                if (prop.IsDefined(typeof(LengAttribute), true))
-                {
-                    LengAttribute attribute = (LengAttribute)prop.GetCustomAttribute(typeof(LengAttribute), true);
-                    if (!attribute.Validate(prop.GetValue(oObject)))
+                    foreach (AbstractValidateAttribute attribute in attributeArray)
                     {
-                        return false;
+                        if (!attribute.Validate(prop.GetValue(oObject)))
+                        {
+                            return false;
+                        }
                     }
 
                 }
 
+            //if (prop.IsDefined(typeof(LengAttribute), true))
+            //{
+            //    LengAttribute attribute = (LengAttribute)prop.GetCustomAttribute(typeof(LengAttribute), true);
+            //    if (!attribute.Validate(prop.GetValue(oObject)))
+            //    {
+            //        return false;
+            //    }
 
-            }
+            //}
+
+
+        }
             return true;
         }
 
